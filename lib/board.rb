@@ -1,3 +1,3 @@
 board =  arr [" ", " ", " "]
 
-ruby board.rb
+uby board.rbr
